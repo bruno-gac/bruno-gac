@@ -26,7 +26,7 @@
  <br>
  
   ### Me encontre em:
-  <a href="https://www.linkedin.com/in/brunobgac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/brunogac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/bruno-gac/bruno-gac/blob/output/github-contribution-grid-snake.svg)
 
