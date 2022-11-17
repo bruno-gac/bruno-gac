@@ -1,6 +1,5 @@
 
 <h1 align="center">Olá 👋, sou o Bruno Gaspar</h1>
-🌱 Estou atualmente estudando [Fundamentos do C#] no (Balta.io)
 
 📫 Para contato **brunogasparalves@gmail.com**
 
